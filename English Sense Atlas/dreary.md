@@ -33,6 +33,9 @@ drēorig
 #### 원문
 [The little station looked **_dreary_**.](<obsidian://open?vault=English Grammar&&file=Verbs>)
 
+### 예문
+
+
 ### My sentence
 This city in the rain looked dreary.
 
