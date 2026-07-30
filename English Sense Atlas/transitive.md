@@ -34,7 +34,7 @@ Intransitive Verb
 [Transitive Verb](<obsidian://open?vault=English Grammar&&file=Verbs>)
 	Complete Transitive Verb
 	Incomplete Transitive Verb
-[[Dative]] Verb : 수여동사
+[[dative]] Verb : 수여동사
 
 ### 예문
 In 'She kicked the ball.', 'kicked' is a transitive verb.
