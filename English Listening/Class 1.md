@@ -12,4 +12,18 @@
 ![[The Ancient Roman Road.mp3]]
 
 
-### Words
+### Words and Phrases
+
+- empire  **/émpaiər/** 제국
+
+- road **/roud/** 길
+
+- Persian **/pə́ːrʒən/** 페르시아인
+
+- Etruscan **/itrΛskən/** 에트루리아인
+
+- linked **/liŋkt/** 연결된
+
+- literally **/lítərəli/** 글자 뜻대로, 그대로
+
+- last **/læst/** 지속하다
