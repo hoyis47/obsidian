@@ -40,3 +40,51 @@
 - on top 위에
 
 
+### Short Sentences
+
+1. Rome became a powerful empire.
+	- 각 단어의 발음, 강세 정확히 알기 
+	
+2. The Persians and the Etruscans built cool roads.
+	- 고유명사의 발음을 정확히 알기
+	
+3. The road system _wa**s s**o_ well _link**ed t**ogether_.
+	- 연음 현상 
+	
+4. The Roman roads ***were*** _buil**t t**o_ last.
+	- 약한 발음 잘 안들리는 특성 
+	- 연음 현상 
+	- last가 그자리에 올거라 상상 못하는 맥락 이해하지 못함
+	
+5. They used special concrete from vocanic ash and lime.
+	
+6. They _ha**d t**o_ change / a little bit / becasue of / the different stuff / they had in each place.
+	- 연음 현상
+	- 성우가 띄어 읽는 부분이 의미의 단위가 된다.
+	
+7. They put down big flat stones.
+	- big flat stones : 모든 단어를 각각 강조해서 천천히 읽음-> 중요한 정보이므로.
+	- 중요하지 않은 정보는 약하게 빠르게 읽음
+	
+8. They put down sticky stuff called mortar.
+	- 플랩 현상 : 모터(X) 모더(O) 모러(O)
+	
+9. The surface was so shaped that the water would run off the middle.
+	- 의미가 있는 단어는 강하게 발음
+	- 의미 없는 기능어는 약하게 발음 
+
+
+### Vulnerability for Listening
+
+	1. 약한 발음 놓치기
+	2. 문맥 파악 안됨 : 독해능력 향상
+	3. 기억력 저하로 놓치기 
+
+Rome ==became a== big and powerful empire a long time ago ==mostly== because ==it had a== strong army ==with== really good soldiers and leaders. One of the main things ==that helped== Rome stay powerful for a long time was ==its== huge number of roads. Before Rome, ==some other groups== like ==the== Persians and ==the== Etuscans ==built== cool roads, but ==Rome's== roads ==were== like none other. They ==had more than== 50,000 miles ==of== roads that ==wer== really well made, and ==they kept making more as their land grew bigger.== The road system ==was== so well ==linked== together. ==It== was literally true to say "All roads lead to Rome."
+These roads ==weren't== just ==for army to move around.== They ==were== also used by people who ==collected== money for Rome, the people who ==ran== the empire, people whe ==sold== things, and ==just== regular ==folks== traveling around. The roads made ==sure== everything ==in the empire ran== smoothly.
+The Roman roads ==were== super straight and built to ==last==. They slopped ==down== on the sides so rainwater could flow ==off==, and ==they== used special concrete ==from== volcanic ash and lime. The Roman builders ==made roads the== same way everywhere, even though they sometimes ==had to== change a little bit because ==of== the different ==stuff== they had in each place.
+They really took ==thier== time  ==and cared building the roads== right. The very best ==roads==, like the Appian Way, ==were== ==up to== ==eight feet thick==  ==with== many layers. They put down big flat stones, then ==a== mix of stones ==and== sticky stuff called ==mortar==, and on top, ==they== put concrete. The very top layer ==had hard== stone blocks fitted close together. The surface ==was== so shaped that the water ==would== run off the middle. Because they built ==these== roads so well, some parts of ==the== roads ==are== still good enough to ==be used== today!
+
+
+
+
