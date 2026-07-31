@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cook/요리노트/소고기.md",
+                "file": "cook/요리노트/[재료] 달걀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소고기"
+              "title": "[재료] 달걀"
             }
           }
         ]
@@ -188,7 +188,11 @@
   },
   "active": "7e92649f24fc4b03",
   "lastOpenFiles": [
-    "cook/요리노트/달걀.md",
+    "cook/요리노트/[재료] 달걀.md",
+    "English/English Listening/The Ancient Roman Road.mp3",
+    "English/English Listening/🎧 _The Goal of English Listening Class.md",
+    "English/English Listening/🎧 Class 2.md",
+    "English/English Listening/🎧 Class 1.md",
     "cook/요리노트/소고기.md",
     "새 텍스트 문서.txt",
     "English/English Writing",
@@ -202,10 +206,6 @@
     "English/English Sense Atlas/buglar.md",
     "English/English Sense Atlas/accusative.md",
     "English/English Sense Atlas",
-    "English/English Listening/_The Goal of English Listening Class.md",
-    "English/English Listening/The Ancient Roman Road.mp3",
-    "English/English Listening/Class 2.md",
-    "English/English Listening/Class 1.md",
     "English/English Listening",
     "English/English Grammar/2. Tense.md",
     "English/English Grammar/1. Verbs.md",
@@ -220,7 +220,6 @@
     "English Sense Atlas/buglar.md",
     "English Sense Atlas/transitive.md",
     "English Listening/The Ancient Roman Road.mp3",
-    "요리노트/무제.md",
     "English Writing"
   ]
 }
