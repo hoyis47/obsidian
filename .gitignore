@@ -2,3 +2,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .DS_Store
+
+
+# 플러그인 설정 파일(API 키 등이 포함된 파일)만 제외
+.obsidian/plugins/*/data.json
