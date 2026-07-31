@@ -4,14 +4,10 @@
 
 ### Listening Full Context
 
-![[The Ancient Roman Road.mp3]]
+
+<audio controls src="https://pub-dfc3e9ea1d5840d1a240c407641efd40.r2.dev/listening/The%20Ancient%20Roman%20Road.mp3"></audio>
 
 
-### Words and Phrases
-
-- empire  **/émpaiər/** 제국  [🔊](<https://dictionary.cambridge.org/pronunciation/english/empire>)
-
-- road **/roud/** 길  [🔊](https://dictionary.cambridge.org/pronunciation/english/road)
 
 - Persian **/pə́ːrʒən/** 페르시아인  [🔊](https://dictionary.cambridge.org/pronunciation/english/persian)
 
