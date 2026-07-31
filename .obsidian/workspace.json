@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8bbf772eae208ebf",
+        "id": "04a8ac5e44803d24",
         "type": "tabs",
         "children": [
           {
-            "id": "923e186b4aefd748",
+            "id": "7e92649f24fc4b03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Listening/Class 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Class 1"
-            }
-          },
-          {
-            "id": "1c2aefe91eb6ad0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Listening/Class 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 1"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c2aefe91eb6ad0a",
+  "active": "7e92649f24fc4b03",
   "lastOpenFiles": [
-    "English Listening/_The Goal of English Listening Class.md",
     "English Listening/Class 1.md",
+    "English Listening/_The Goal of English Listening Class.md",
     "English Listening/Class 2.md",
     "English Sense Atlas/vulnerability.md",
     "English Sense Atlas/primitive.md",
