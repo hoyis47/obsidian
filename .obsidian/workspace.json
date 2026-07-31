@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -180,8 +182,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e92649f24fc4b03",
+  "active": "def1d89c9869d05a",
   "lastOpenFiles": [
+    "새 텍스트 문서.txt",
+    "English/English Writing",
+    "English/English Sense Atlas/_Template.md",
+    "English/English Sense Atlas/vulnerability.md",
+    "English/English Sense Atlas/transitive.md",
+    "English/English Sense Atlas/primitive.md",
+    "English/English Sense Atlas/dreary.md",
+    "English/English Sense Atlas/distinguish.md",
+    "English/English Sense Atlas/dative.md",
+    "English/English Sense Atlas/buglar.md",
+    "English/English Sense Atlas/accusative.md",
+    "English/English Sense Atlas",
+    "English/English Listening/_The Goal of English Listening Class.md",
+    "English/English Listening/The Ancient Roman Road.mp3",
+    "English/English Listening/Class 2.md",
+    "English/English Listening/Class 1.md",
+    "English/English Listening",
+    "English/English Grammar/2. Tense.md",
+    "English/English Grammar/1. Verbs.md",
+    "English/English Grammar",
     "English Listening/Class 1.md",
     "English Listening/_The Goal of English Listening Class.md",
     "English Listening/Class 2.md",
@@ -194,7 +216,6 @@
     "English Listening/The Ancient Roman Road.mp3",
     "요리노트/무제.md",
     "베이킹노트/무제.md",
-    "무제.md",
     "English Writing"
   ]
 }
