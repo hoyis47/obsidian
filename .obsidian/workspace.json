@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Everyday English/🐰 01. prep.md",
+                "file": "English/Introduce books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🐰 01. prep"
+              "title": "Introduce books"
             }
           }
         ],
@@ -227,8 +227,11 @@
   },
   "active": "d441b422de775552",
   "lastOpenFiles": [
-    "English/College English/🏫 01. prep.md",
+    "bakery_analysis_note.pdf",
+    "English/Introduce books.md",
+    "English/English Grammar/🗝️ 2. Tense.md",
     "English/Everyday English/🐰 01. prep.md",
+    "English/College English/🏫 01. prep.md",
     "English/Everyday English/🐰 01. Introducing Myself.md",
     "English/College English/🏫 02. prep.md",
     "English/Everyday English",
@@ -238,11 +241,9 @@
     "cook/베이킹노트/참고도서.md",
     "cook/베이킹노트/빵지순례/빵지순례용 포맷.md",
     "cook/베이킹노트/빵지순례",
-    "bakery_analysis_note.pdf",
     "English/English Listening/🎧 01. The Ancient Roman Road 1.md",
     "English/English Listening/🎧 02. The Ancient Roman Road 2.md",
     "English/English Listening/🎧 _The Goal.md",
-    "English/English Grammar/🗝️ 2. Tense.md",
     "English/English Grammar/🗝️ 1. Verbs.md",
     "English/Short Stroies/📚 01. prep.md",
     "English/Short Stroies/📚 01. The Pearl of Love.md",
@@ -260,8 +261,6 @@
     "새 텍스트 문서.txt",
     "English/English Sense Atlas/_Template.md",
     "English/English Sense Atlas/vulnerability.md",
-    "English/English Sense Atlas/transitive.md",
-    "English/English Sense Atlas/primitive.md",
-    "English/English Sense Atlas/dreary.md"
+    "English/English Sense Atlas/transitive.md"
   ]
 }
