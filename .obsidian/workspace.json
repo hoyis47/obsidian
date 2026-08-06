@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04a8ac5e44803d24",
+        "id": "fd5c2e8d0f0d38a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7e92649f24fc4b03",
+            "id": "e58e2257d7a4cf94",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e92649f24fc4b03",
+  "active": "e58e2257d7a4cf94",
   "lastOpenFiles": [
     "cook/베이킹노트/참고도서.md",
     "cook/베이킹노트/탕종법.md",
