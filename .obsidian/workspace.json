@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fd5c2e8d0f0d38a8",
+        "id": "04a8ac5e44803d24",
         "type": "tabs",
         "children": [
           {
-            "id": "e58e2257d7a4cf94",
+            "id": "7e92649f24fc4b03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English/Short Stroies/📚 01. prep.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "📚 01. prep"
+            }
+          },
+          {
+            "id": "7e105142401dc7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/College English/🏫 01. Virus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏫 01. Virus"
+            }
+          },
+          {
+            "id": "d441b422de775552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/College English/🏫 01. Virus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏫 01. Virus"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "요리노트/무제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "무제 의 백링크"
             }
           },
           {
@@ -163,7 +197,7 @@
             }
           },
           {
-            "id": "ae4cb6e3fe2d8d83",
+            "id": "7161c8022243b501",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,39 +215,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "bases:새 베이스 생성하기": false
     }
   },
-  "active": "e58e2257d7a4cf94",
+  "active": "def1d89c9869d05a",
   "lastOpenFiles": [
-    "cook/베이킹노트/참고도서.md",
     "cook/베이킹노트/탕종법.md",
+    "cook/베이킹노트/참고도서.md",
     "cook/베이킹노트/빵지순례/빵지순례용 포맷.md",
     "cook/베이킹노트/빵지순례",
-    "무제",
     "bakery_analysis_note.pdf",
-    "English/Short Stroies/📚 _Orientation.md",
-    "English/Short Stroies/📚 01. The Pearl of Love.md",
-    "English/Short Stroies/📚 01. prep.md",
     "English/College English/🏫 01. prep.md",
-    "English/College English/🏫 01. Virus.md",
-    "English/English Listening/🎧 02. The Ancient Roman Road 2.md",
     "English/English Listening/🎧 01. The Ancient Roman Road 1.md",
+    "English/English Listening/🎧 02. The Ancient Roman Road 2.md",
+    "English/English Listening/🎧 _The Goal.md",
     "English/English Grammar/🗝️ 2. Tense.md",
     "English/English Grammar/🗝️ 1. Verbs.md",
+    "English/College English/🏫 01. Virus.md",
+    "English/Short Stroies/📚 01. prep.md",
+    "English/Short Stroies/📚 01. The Pearl of Love.md",
     "English/College English",
-    "English/Short Stroies/📚 The Pearl of Love.md",
-    "English/English Listening/🎧 _The Goal.md",
-    "English/English Listening/🎧 The Ancient Roman Road 2.md",
-    "English/English Listening/🎧 The Ancient Roman Road 1.md",
-    "English/무제",
+    "English/Short Stroies/📚 _Orientation.md",
+    "English/College English",
     "English/English Composition 1",
     "English/English Conversation 1",
     "English/Short Stroy.md",
@@ -223,10 +253,15 @@
     "English/English Listening/The Ancient Roman Road.mp3",
     "cook/요리노트/소고기.md",
     "새 텍스트 문서.txt",
+    "English/English Writing",
     "English/English Sense Atlas/_Template.md",
     "English/English Sense Atlas/vulnerability.md",
     "English/English Sense Atlas/transitive.md",
     "English/English Sense Atlas/primitive.md",
-    "English/English Sense Atlas/dreary.md"
+    "English/English Sense Atlas/dreary.md",
+    "English/English Sense Atlas/distinguish.md",
+    "English/English Sense Atlas/dative.md",
+    "English/English Sense Atlas/buglar.md",
+    "English/English Sense Atlas/accusative.md"
   ]
 }
