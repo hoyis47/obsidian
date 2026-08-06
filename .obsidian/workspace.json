@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/College English/🏫 02. prep.md",
+                "file": "English/Everyday English/🐰 01. prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏫 02. prep"
+              "title": "🐰 01. prep"
             }
           }
         ],
@@ -225,10 +225,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "def1d89c9869d05a",
+  "active": "d441b422de775552",
   "lastOpenFiles": [
-    "English/College English/🏫 02. Ancent Egypt.md",
+    "English/Everyday English/🐰 01. Introducing Myself.md",
+    "English/Everyday English/🐰 01. prep.md",
     "English/College English/🏫 02. prep.md",
+    "English/Everyday English",
+    "English/College English/🏫 02. Ancent Egypt.md",
     "English/College English/🏫 01. prep.md",
     "English/College English/🏫 01. Virus.md",
     "cook/베이킹노트/탕종법.md",
@@ -255,13 +258,10 @@
     "English/English Listening/The Ancient Roman Road.mp3",
     "cook/요리노트/소고기.md",
     "새 텍스트 문서.txt",
-    "English/English Writing",
     "English/English Sense Atlas/_Template.md",
     "English/English Sense Atlas/vulnerability.md",
     "English/English Sense Atlas/transitive.md",
     "English/English Sense Atlas/primitive.md",
-    "English/English Sense Atlas/dreary.md",
-    "English/English Sense Atlas/distinguish.md",
-    "English/English Sense Atlas/dative.md"
+    "English/English Sense Atlas/dreary.md"
   ]
 }
