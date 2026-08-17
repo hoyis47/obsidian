@@ -40,7 +40,7 @@
     
 - **문맥 확장 예문:**
     
-    She pressed her forehead against the cool **windowpane**, watching the streetlights flicker on in the gathering dusk.
+    She pressed her forehead against the cool **windowpane**, watching the streetlights flicker on in the gathering [[dusk]].
     
     _(그녀는 차가운 창유리에 이마를 대고, 어스름이 깔리는 거리에서 가로등 불빛이 하나둘 켜지는 것을 바라보았다.)_
     

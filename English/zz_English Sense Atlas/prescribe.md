@@ -35,7 +35,7 @@
 
 - **직관적 예문**
     
-    The doctor **prescribed** antibiotics to treat the severe infection.
+    The doctor **prescribed** antibiotics to treat the [[servere]] infection.
     
     (의사는 심한 감염을 치료하기 위해 항생제를 **처방했다**.)
     
