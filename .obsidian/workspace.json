@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/zz_English Sense Atlas/servere.md",
+                "file": "English/zz_English Sense Atlas/resistance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "servere"
+              "title": "resistance"
             }
           }
         ],
@@ -227,9 +227,11 @@
   },
   "active": "d441b422de775552",
   "lastOpenFiles": [
-    "English/zz_English Sense Atlas/prescribe.md",
     "English/zz_English Sense Atlas/servere.md",
+    "English/zz_English Sense Atlas/replicate.md",
+    "English/zz_English Sense Atlas/prescribe.md",
     "English/zz_English Sense Atlas/antibiotic.md",
+    "English/zz_English Sense Atlas/resistance.md",
     "English/zz_English Sense Atlas/ailment.md",
     "English/zz_English Sense Atlas/conflict.md",
     "English/zz_English Sense Atlas/dative.md",
@@ -237,7 +239,6 @@
     "English/zz_English Sense Atlas/formation.md",
     "English/zz_English Sense Atlas/refer.md",
     "English/zz_English Sense Atlas/primitive.md",
-    "English/zz_English Sense Atlas/replicate.md",
     "English/zz_English Sense Atlas/reveal.md",
     "English/zz_English Sense Atlas/substratum.md",
     "English/zz_English Sense Atlas/subordinate.md",
@@ -253,7 +254,6 @@
     "English/zz_English Sense Atlas/subalpine.md",
     "English/zz_English Sense Atlas/accusative.md",
     "English/English Sense Atlas/_Template.md",
-    "English/English Grammar/🗝️ 1. Verbs.md",
     "English/Everyday English",
     "cook/베이킹노트/빵지순례",
     "English/College English",
