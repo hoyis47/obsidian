@@ -39,7 +39,7 @@
     
 - **문맥 확장 예문**
     
-    Overusing **antibiotics** can lead to bacterial resistance, making common infections much harder to treat in the future.
+    Overusing **antibiotics** can lead to bacterial [[resistance]], making common infections much harder to treat in the future.
     
     (**항생제**를 남용하면 세균의 내성을 유발하여, 향후 흔한 감염조차 치료하기 훨씬 어렵게 만들 수 있다.)
     

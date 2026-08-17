@@ -39,7 +39,7 @@
     
 - **문맥 확장 예문**
     
-    Her timely decision to speak up played a **crucial** role in resolving the conflict before it escalated.
+    Her timely decision to speak up played a **crucial** role in resolving the [[conflict]] before it escalated.
     
     (목소리를 내기로 한 그녀의 적절한 결단은 갈등이 격화되기 전에 해결하는 데 **중대한** 역할을 했다.)
     

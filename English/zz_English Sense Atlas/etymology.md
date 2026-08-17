@@ -44,7 +44,7 @@
         
 - **문맥 확장 예문 (원서/인문학 스타일):**
     
-    - _A deep dive into the **etymology** of the term revealed its surprising connection to ancient mythologies._
+    - _A deep dive into the **etymology** of the term [[reveal]]ed its surprising connection to ancient mythologies._
         
         (그 용어의 **어원**을 깊이 탐구해 보니 고대 신화와의 놀라운 연관성이 드러났습니다.)
         

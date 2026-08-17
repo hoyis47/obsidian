@@ -34,7 +34,7 @@
     
 - **문맥 확장 예문:**
     
-    She noticed a thin layer of **frost** forming on the windowpane, signaling the arrival of the harsh winter.
+    She noticed a thin layer of **frost** forming on the [[windowpane]], signaling the arrival of the harsh winter.
     
     _(그녀는 창문에 얇은 서리 레이어가 얹히기 시작하는 것을 보았고, 이는 혹독한 겨울이 찾아왔음을 알리고 있었다.)_
     
