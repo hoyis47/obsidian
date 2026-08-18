@@ -1,57 +1,59 @@
 
-### 품사
+## 1. 발음 & 강세 (Pronunciation)
 
-Verb
-
-### 발음
-
-/dɪˈstɪŋ.ɡwɪʃ/
-
-### 핵심 이미지
-
-복잡하게 엉켜 있거나 비슷해 보이는 것들 사이에 선을 명확하게 슥 그어서, 이쪽과 저쪽을 완전히 다르게 가려내는 손길
-
-### 감각
-
-- **경계선:** 비슷해 보이는 대상들 사이에 시각적·개념적 선을 그어 분명하게 나누는 감각
+- **IPA 발음기호:** /dɪˈstɪŋ.ɡwɪʃ/
     
-- **선명함:** 혼란스럽고 뿌연 상태에서 차이점을 확실하게 파악하여 뚜렷하게 인식함
-    
-- **우뚝 서다:** 남들과 확실히 구분될 정도로 뛰어난 능력이나 성과를 드러냄
+- **강세 강조:** dis-**TING**-guish (두 번째 음절 **TING**에 강세가 있습니다)
     
 
-### 뉘앙스
+## 2. 입체적 단어 분절 및 어원 (Etymology & Breakdown)
 
-'구별하다, 차이를 인식하다, 차별화하다'라는 뜻이다.
-
-단순히 둘을 떼어놓는 행동(Separate)을 넘어, 눈으로 보거나 머리로 생각해서 "둘이 서로 어떻게 다른지 알아채다"라는 인지적 감각이 강하다. 또한 **`distinguish oneself`** 형태로 쓰이면 "남들과 구별될 정도로 스스로를 돋보이게 만들다(두각을 나타내다)"라는 의미가 된다.
-
-### 어원
-
-라틴어 _distinguere_ (_dis-_ [분리하여/떨어져] + _stinguere_ [찔러서 점을 찍다]) ➔ 찍어서 표시를 해두어 서로 다름을 뚜렷이 나타내다.
-
-어원적으로 '콕 짚어서 표시해 구별해내다'라는 감각을 담고 있다.
-
-### 원문
-
-[He distinguished himself in literature.](<obsidian://open?vault=English Grammar&file=Verbs>)
-
-### 예문
-
-- It is important to **distinguish** between fact and opinion.    
-    (사실과 의견을 **구별하는** 것은 중요하다.)
+- **분절 구조:** **dis-** (떨어져, 서로 다르게) + **stinguere** (찌르다, 마크하다)
     
-- Can you **distinguish** the twins from each other?    
-    (쌍둥이를 서로 **구별할** 수 있겠어?)
+- **어원적 맥락:**
     
-- She **distinguished** herself as a talented designer early in her career.    
-    (그녀는 커리어 초기에 뛰어난 디자이너로서 **두각을 나타냈다**.)
+    라틴어 _distinguere_에서 유래한 단어입니다. 원래는 '송곳이나 도구로 콕 찔러서 다른 것들과 따로 구별되게 표시를 해두다(mark off)'라는 뜻이었어요.
     
-- A clear mind helps us **distinguish** what is truly important in life.
+    여러 개가 뒤섞여 있는 상태에서, 특정한 하나를 콕 찔러서(**sting**) "이건 이거야!" 하고 따로 분리해 놓는(**dis**) 시각적 행위에서 지금의 '구별하다', '분간하다'라는 의미가 탄생했습니다.
+    
 
-### My sentence
+## 3. 핵심 의미 & 입체적 감각/이미지 (Meaning & Visual Feeling)
 
-I distinguished myself as a talented programmer.
+- **사전적 의미:** 구별하다, 분간하다, 차이를 밝히다, (특징 등이) Distinct하게 만들다
+    
+- **입체적 감각/이미지:**
+    
+    - **어둠 속에서 빛 한 줄기가 켜지며 대상을 구별해내는 느낌**입니다.
+        
+    - 비슷비슷해 보이는 가짜 보석들 사이에서, 돋보기를 들고 진짜 보석만의 미세한 흠집이나 빛깔을 콕 집어내는 자의 날카로운 눈빛을 상상해 보세요.
+        
+    - 단순히 "A와 B는 다르다"고 아는 수준을 넘어, **서로 엉켜 있는 것들 사이에서 명확한 경계선을 그어 분리해내는 느낌**을 줍니다.
+        
+
+## 4. 원서 입체 복습 예문 (Example Sentences)
+
+1. **직관적인 예문**
+    
+    > "It was difficult to **distinguish** the real painting from the fake one."
+    > 
+    > _(진짜 그림과 가짜 그림을 구별해내는 것은 어려웠다.)_
+    
+2. **문맥 확장 예문 (원서 느낌)**
+    
+    > "Through the thick fog, she could barely **distinguish** the silhouette of the approaching ship."
+    > 
+    > _(짙은 안개 속에서 그녀는 다가오는 배의 윤곽을 겨우 분간할 수 있었다.)_
+    
+
+## 5. 효율적 기억 팁 (Brain-friendly Memory Tip)
+
+- **어근 연상 팁:** 벌에게 ‘콕 찌르이다(sting)’를 떠올려 보세요! 엉뚱한 것들 사이에 핀을 콕 찔러(**sting**) 따로(**dis**) 분류해 놓는 그림을 그리시면 됩니다.
+    
+- **연관 단어 확장:**
+    
+    - **extinguish** (_ex-_ 밖으로 + _stinguere_ 찌르다/불을 끄다) $\rightarrow$ 불을 찔러 끄다, 소화하다
+        
+    - **distinct** (_dis-_ 따로 + _stinct_ 찔러 표시된) $\rightarrow$ 뚜렷한, 명확한
 
 
 ### Links
