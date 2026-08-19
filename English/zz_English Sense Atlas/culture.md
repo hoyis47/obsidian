@@ -24,7 +24,7 @@
         
 - **어근 확장:** 같은 어근 **cult** (가꾸다/경작하다)를 공유하는 단어들입니다.
     
-    - **cultivate:** cult(가꾸다) + ivate $\rightarrow$ 경작하다, (능력·교양을) **계발하다/가꾸다**
+    - **[[cultivate]]:** cult(가꾸다) + ivate $\rightarrow$ 경작하다, (능력·교양을) **계발하다/가꾸다**
         
     - **agriculture:** agri(밭) + culture(경작) $\rightarrow$ **농업**
         
