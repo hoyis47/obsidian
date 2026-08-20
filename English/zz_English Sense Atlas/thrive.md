@@ -52,9 +52,15 @@
     > 
     > 아이들은 자신이 안전하고, 지지받으며, 진정으로 가치 있게 여겨진다고 느끼는 환경 속에서 가장 뛰어나게 자라난다(번성한다).
     
+    Instead of being crushed by the intense pressure, she seemed to **thrive** under challenge, transforming every obstacle into a stepping stone. _(그녀는 극심한 압박에 굴복하는 대신, 오히려 도전 속에서 더욱 번창하는 듯 보였으며 모든 장애물을 걸림돌이 아닌 걸음마판으로 바꾸어 놓았습니다.)_
+    
 
 ## 5. 효율적 기억 팁 (Brain-friendly Memory Tip)
 
 > 💡 **"거친 바다를 헤치고 자원을 움켜쥐던(thrive) 바이킹의 강인한 생명력!"**
 > 
 > 자원을 알뜰히 쥐고 아껴 쓰는 **thrifty(알뜰한)**를 떠올리며, 척박한 땅에서도 꽃을 피워내는 **thrive(번창하다, 잘 자라다)**의 싱그러운 초록빛 에너지를 연상해 보세요.
+
+- **유사 단어 비교**: **survive**가 겨우 '생존'하는 것이라면, **thrive**는 솟구치는 에너지로 '번성'하는 것입니다!
+    
+- **어원 연상**: 기회를 손에 '꽉 쥐고(thri-)' 무럭무럭 자라나는 화초의 이미지를 떠올려 보세요.
