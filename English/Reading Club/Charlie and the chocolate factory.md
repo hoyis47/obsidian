@@ -14,7 +14,16 @@ Ronald Dahl
 	- How is it going?
 
 - tube of toothpaste : 치약 자체는 셀 수 없으므로 tube단위를 붙어 사용
-- bar
+- bar of chocolate : 초콜릿도 셀 수 없으므로 bar 단위 붙인다.
+
+- tummy  : 아이 용어 stomach, belly 보다 어린아이들 사용
+
+- The Buckets : Bucket 가족(여러명의 Bucket들)
+	- The Simpson : Simpson family (X)
+	- The Yangs
+
+
+
 
 
 
