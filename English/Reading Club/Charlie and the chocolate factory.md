@@ -22,6 +22,28 @@ Ronald Dahl
 	- The Simpson : Simpson family (X)
 	- The Yangs
 
+- turn out : 돌아서 밖으로 나오다, 드러나다, 생산하다
+
+- mind you : 명심해, 신경 써, 
+	- mind your own business
+
+- ill : 영국식
+	- 아픈 것
+	- 속이 거북한 것, 메스꺼운 것
+- sick : 미국식
+	- 아픈 것
+	- 속이 거북한 것, 메스꺼운 것
+	- morning sickness : 아침 속 거북함
+	- sickness : 아픔, 거북함 
+
+- yank : 확 잡아당기다
+
+- lucky strike : Gold Rush 때 금을 때려서 캐서 운을 잡았기 때문에 유래한 말
+
+- 기간 + solid : 단단하게 그 기간을 빽빽히 채움 ( 그 기간 내내, 쉬지않고 )
+
+- sticky end : 끈적이는 것은 기분이 별로 안좋으므로 좋지 않은 결말을 뜻함.
+	- unpleasent end
 
 
 
