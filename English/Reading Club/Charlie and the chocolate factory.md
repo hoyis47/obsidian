@@ -45,6 +45,35 @@ Ronald Dahl
 - sticky end : 끈적이는 것은 기분이 별로 안좋으므로 좋지 않은 결말을 뜻함.
 	- unpleasent end
 
+- run : 달리다, 굴러가는 것, 손가락이 피부를 스치는 것도 run을 사용
+
+- shall : 현대에는 거의 안 씀 -> will 로 대체
+
+- so were the carpets 
+	- [[도치]] : 강조
+	- 부정어 앞에 오면 도치
+	- so 앞에 오면 도치 : so do I
+
+- 문장에서 강조 하고 싶은 단어
+	- 말 : 강하게 말하기
+	- 글 : 이탤릭체, 볼드체 등 다르게 표현
+
+- pull my leg
+	- 다리를 잡아 당기다
+	- 농담하다
+
+- cleverness**es** 
+	- 추상적인 단어에 복수가 쓰임
+	- 드문 케이스
+	- 현명함'들' 
+		- 현명함을 종류로 보기 때문에 복수로 사용 됨
+		- kinds of cleverness
+	- kindness, happiness 모두 복수형이 없음
+	- -ness : 추상명사(개념)이므로 복수가 거의 없다.
+
+
+
+
 
 
 
