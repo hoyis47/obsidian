@@ -144,3 +144,5 @@
 1. P16(대학영어)
 	1. The meticulous prevservation of the pharaoh's body was crucial for enalbling the departed ruler to adhere to his responsibilities in the afterlife **==as==** the monarch of the deceased. (전치사 : ~로서)
 
+2. P15(대학영어)
+	1. As time went on, (접속사 : ~함에 따라)
