@@ -135,3 +135,12 @@
 > **나무야님을 위한 한 줄 요약**
 > 
 > `as`를 볼 때마다 **"두 개가 똑같이 겹쳐지거나(＝), 같은 방향으로 함께 달린다(∥)"**는 3D 이미지만 떠올리시면, 문맥 속에서 6가지 뜻이 저절로 술술 풀리실 거예요!
+
+
+---
+
+## 책에 나온 as 예문 정리
+
+1. P16(대학영어)
+	1. The meticulous prevservation of the pharaoh's body was crucial for enalbling the departed ruler to adhere to his responsibilities in the afterlife **==as==** the monarch of the deceased. (전치사 : ~로서)
+
